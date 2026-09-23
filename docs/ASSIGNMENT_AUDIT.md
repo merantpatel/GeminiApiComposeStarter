@@ -34,7 +34,7 @@ All Kotlin paths below are relative to app/src/main/java/com/fahim/geminiApiComp
 | Compose tests using createComposeRule | app/src/androidTest/.../ChatScreenTest.kt | 14/14 emulator tests passed, including real Gemini and voice intent results; final targeted test also passed |
 | README setup/security/test instructions | README.md | Setup, fallback, Keystore, limitations, production advice, build, unit/UI tests and runtime checks covered |
 | No secrets in source, diffs or history | scripts/secret_audit.py | Full working-file/index/diff/reachable-history audit passed; repeated before commits and against the published PR diff |
-| Feature checklist, screenshots and PR | docs/screenshots; GitHub PR | Feature/test checklist and real emulator screenshots prepared; PR publication follows the final audit |
+| Feature checklist, screenshots and PR | docs/screenshots; GitHub PR | Published in PR #84: https://github.com/ifahimkhan/GeminiApiComposeStarter/pull/84 |
 
 ## Verification results
 
